@@ -1,6 +1,6 @@
 # Graph Traversal
 
-(app.py)[app.py] is a script to traverse a directed acyclic graph where
+[app.py](app.py) is a script to traverse a directed acyclic graph where
 letters are assigned to the vertices and numbers (times) are assigned to the edges.
 The script traverses the graph and prints the vertices in increasing order of times.
 
